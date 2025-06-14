@@ -1,9 +1,6 @@
-ccxt
+streamlit
 pandas
 numpy
 requests
-TA-Lib
-python-telegram-bot
 pandas-ta
-streamlit
-
+python-telegram-bot
