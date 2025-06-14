@@ -5,3 +5,4 @@ requests
 pandas-ta
 python-telegram-bot
 matplotlib
+seaborn
