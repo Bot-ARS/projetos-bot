@@ -1,8 +1,9 @@
-streamlit
+ccxt
 pandas
 numpy
 requests
-pandas-ta
-python-telegram-bot
+TA-Lib
+pytz
+streamlit
 matplotlib
 seaborn
