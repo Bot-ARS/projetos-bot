@@ -1,0 +1,9 @@
+ccxt
+pandas
+numpy
+requests
+TA-Lib
+python-telegram-bot
+pandas-ta
+streamlit
+
